@@ -1,0 +1,142 @@
+
+
+     
+#b{ background-color:#5D6061;color:white;margin-top:4px;border:none;margin-right:20px;padding: 9px 16px; border-radius:5px;}
+#b:hover{background-color:#0CA4D7;}
+body{background-color:#E3E9E9;}
+#a{ background-color:#E3E9E9;height:7%;width:100%;}
+#c{ margin-left:30px;margin-top:7px;}
+#main{
+	margin-left:50px;
+	height:40%;
+	
+	margin-top:20px;
+}
+#no{color:black; font-family:Comic Sans MS;
+}
+#hot{
+	position:relative;
+	transform:translateY(500px);
+        
+}
+
+#new {
+	
+	transform:translateY(550px);
+	background-color:black;
+}
+
+#pic{
+position:absolute;
+height:70%;
+transform: translateX(-55px);
+width:100%;
+}
+.icon{transform: translateX(2000px);}
+
+#brand {
+	transform:translateY(550px);
+	background-color:white;
+}
+#q{
+  
+  margin-left:500px;
+ position:absolute;
+  margin-top:20px;}
+.home{color: white;
+  font-size: 16px;
+  cursor:pointer;
+ text-decoration:none;
+ background-color:black;
+ border:none;}
+.home:hover{color: #0CA4D7;}
+#logo{height:80px;width:140px; margin-left:20px;}
+.wht{background-color:white;height:80px;position:relative; }
+.b{ margin-top:200px;}
+
+#th {
+	margin-bottom:50px;
+	padding-bottom:20px;
+	padding-top:15px;
+	font-size:35px;
+	font-family:Courier;
+}
+
+.ba {
+	height:80px;
+	width:200px;
+	margin: auto 5px;
+
+}
+.dropbtn {
+ 
+  background-color:black;
+  color: white;
+ cursor:pointer;
+  font-size: 16px;
+  border: none;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+  
+  position:absolute;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {background-color: #ddd;}
+
+.dropdown:hover .dropdown-content {display: block;}
+
+.dropdown:hover .dropbtn {color: #0CA4D7;}
+
+.nav {
+	padding:0;
+	margin:0;
+	background-color: black;
+    width: 20px;
+    width: 89%;
+    height: 68px;
+    display: inline-block;
+    flex-direction: row;
+	
+}
+.dropdown {
+	margin:0;
+}
+
+.contact {
+	transform: translateX(1200px);
+	margin-left:0;
+}
+
+.product, .dropdown-content {
+	transform: translateX(1000px);
+	
+}
+
+.homee {
+	    transform: translateX(394px);
+		border:none;
+		color:white;
+		background-color:black;
+		cursor:pointer;
+		font-size:16px;
+}
+.homee:hover{color: #0CA4D7;}
